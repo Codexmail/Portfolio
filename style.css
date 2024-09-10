@@ -72,7 +72,7 @@ img{
     font: bold;
     font-size:3.0rem;
     font-weight: lighter;
-} */
+} 
 .hero{
     display: flex;
     align-items: center;
@@ -83,7 +83,7 @@ img{
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
+}*/
 footer {
     background-color: black;
     color: white;
